@@ -80,16 +80,8 @@ h3 {
     table-layout: fixed;
     width: 100%;
 }
-
 box_style {
     width: 90%;
-}
-
-.button {
-    color: midnightblue;
-    font-size: larger;
-    background-color: white;
-    border:none;
 }
 
 .hyperlink {
